@@ -58,7 +58,7 @@ The Airflow DAG (`sales_revenue_pipeline`) includes three main tasks:
 ---
 
 ## 📊 Example Visualization
-<img width="600" src="[https://github.com/user-attachments/assets/9d67e65f-d6d1-490e-890a-0889901afd4b](https://github.com/Mostamohamed/Capstone-Kiwilytics-Project/blob/main/output/daily_revenue_plot.png)" />
+![Daily Revenue Plot](outputs/daily_revenue_plot.png)
 
 ---
 
