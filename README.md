@@ -58,7 +58,7 @@ The Airflow DAG (`sales_revenue_pipeline`) includes three main tasks:
 ---
 
 ## 📊 Example Visualization
-![Daily Revenue Plot](outputs/daily_revenue_plot.png)
+![Daily Revenue Plot](output/daily_revenue_plot.png)
 
 ---
 
