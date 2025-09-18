@@ -53,7 +53,7 @@ The Airflow DAG (`sales_revenue_pipeline`) includes three main tasks:
 1. Configure your Airflow environment and add a Postgres connection (`postgres_conn`).  
 2. Place the DAG file inside the `dags/` directory.  
 3. Start Airflow and trigger the `sales_revenue_pipeline` DAG.  
-4. Check the `outputs/` folder (or `/tmp/`) for generated CSVs and revenue plots.  
+4. Check the `output/` folder for generated CSVs and revenue plots.  
 
 ---
 
